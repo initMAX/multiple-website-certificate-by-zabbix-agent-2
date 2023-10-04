@@ -1,4 +1,3 @@
-
 # Multiple Website certificate by Zabbix agent 2
 
 ## Description
@@ -28,7 +27,7 @@ No specific Zabbix configuration is required.
 
 |Name|Description|Default|
 |----|-----------|-------|
-|{$CERT.ARRAY}|Array of elements - hostname:port:IP where each element in the array is delimited by a comma.|`<hostname1>:<443>:<IP1>,<hostname2>:<443>:<IP2>`|
+|{$CERT.ARRAY}|Array of elements - hostname(:port(:IP)) where each host is delimited by a comma. The default port is '443'.|`<hostname1>(:<port1>(:<IP1>)),<hostname2>(:<port2>(:<IP2>)), ...`|
 |{$CERT.EXPIRY.WARN}|Number of days until the certificate expires.|`7`|
 |{$CERT.WEBSITE.HOSTNAME}|The website DNS name for the connection.|`<Put DNS name>`|
 |{$CERT.WEBSITE.IP}|The website IP address for the connection.|`` |
