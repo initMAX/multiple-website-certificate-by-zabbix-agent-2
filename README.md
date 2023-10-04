@@ -1,3 +1,4 @@
+
 # Multiple Website certificate by Zabbix agent 2
 
 ## Description
@@ -32,3 +33,12 @@ No specific Zabbix configuration is required.
 |{$CERT.WEBSITE.HOSTNAME}|The website DNS name for the connection.|`<Put DNS name>`|
 |{$CERT.WEBSITE.IP}|The website IP address for the connection.|`` |
 |{$CERT.WEBSITE.PORT}|The TLS/SSL port number of the website.|`443`|
+
+---
+**Like, share and follow us** 😍 for more content:
+- [LinkedIn](https://www.linkedin.com/company/initmax/)🔥
+- [Twitter](https://twitter.com/initmax)
+- [Instagram](https://www.instagram.com/initmax/)
+- [Facebook](https://www.facebook.com/initmax)
+- [Web](https://www.initmax.cz/)
+- [Youtube](https://www.youtube.com/@initmax1)
