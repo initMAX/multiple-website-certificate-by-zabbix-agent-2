@@ -1,5 +1,21 @@
-
 # Multiple Website certificate by Zabbix agent 2
+
+> **⚠️ This repository is DEPRECATED.**  
+> Development has moved to an all‑new template that lives here:  
+> 👉 <https://git.initmax.cz/initMAX-Public/zabbix-templates/-/tree/production/free/Multiple_Website_certificate_by_Zabbix_agent_2>  
+> or
+> 👉 <https://github.com/initMAX/Zabbix-Templates/tree/production/free/Multiple_Website_certificate_by_Zabbix_agent_2>  
+>
+> ### Why migrate?
+> * **Monitor multiple certificates** – monitor several TLS/SSL certificates on a single host with a flexible array format
+> * **Item Discovery Mode** – automatically creates items for each certificate target
+> * **Host Discovery Mode** – optionally creates a dedicated virtual host for each monitored certificate
+> * **Custom warning and critical thresholds** – easily define expiration alerts using macros
+> * **Support for multiple ports and IPs** – flexible hostname:port:IP format for each check
+> * **Native integration** – uses only Zabbix Agent 2, no external scripts or dependencies
+> * **Fully compatible** with Zabbix 7.0 and higher
+>
+> Please open all new issues and pull‑requests in the new repository.
 
 ## Description
 
